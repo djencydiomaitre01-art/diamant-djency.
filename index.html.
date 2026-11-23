@@ -1,0 +1,37 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>DIAMANT DJENCY</title>
+<style>
+body{margin:0;background:#081426;color:white;font-family:Arial;text-align:center}
+header{background:#102747;padding:25px;color:#ffd700}
+main{padding:15px}
+.produit{background:#142b49;padding:18px;margin:15px auto;border-radius:12px;max-width:350px}
+.prix{color:#ffd700;font-size:23px;font-weight:bold}
+a{display:inline-block;background:#ffd700;color:#081426;padding:12px 20px;border-radius:8px;text-decoration:none;font-weight:bold}
+</style>
+</head>
+<body>
+<header>
+<h1>💎 DIAMANT DJENCY 💎</h1>
+<p>Boutique de diamants Free Fire</p>
+</header>
+<main>
+<h2>Nos forfaits</h2>
+<div class="produit"><h3>110 💎</h3><p class="prix">150 GDS</p><a href="https://wa.me/50956274311">Commander</a></div>
+<div class="produit"><h3>341 💎</h3><p class="prix">450 GDS</p><a href="https://wa.me/50956274311">Commander</a></div>
+<div class="produit"><h3>572 💎</h3><p class="prix">750 GDS</p><a href="https://wa.me/50956274311">Commander</a></div>
+<div class="produit"><h3>1 166 💎</h3><p class="prix">1 500 GDS</p><a href="https://wa.me/50956274311">Commander</a></div>
+<div class="produit"><h3>2 398 💎</h3><p class="prix">3 000 GDS</p><a href="https://wa.me/50956274311">Commander</a></div>
+<div class="produit"><h3>6 160 💎</h3><p class="prix">7 500 GDS</p><a href="https://wa.me/50956274311">Commander</a></div>
+</main>
+<footer>
+<p>Contact : +509 56274311</p>
+<p>NatCash : +509 33604785</p>
+<p>© 2026 DIAMANT DJENCY</p>
+</footer>
+</body>
+</html>
